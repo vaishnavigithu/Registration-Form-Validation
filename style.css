@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-wrapper{
+    background-color:rgb(246, 182, 104);
+}
+.main-wrapper{
+    margin-top: 20px;
+}
+.display-3{
+    text-align: center;
+}
+.registration-form{
+    width: 800px;
+    margin: auto;
+}
+
+/* .valid-feedback, .invalid-feedback{
+    display: block;
+} */
+
+.form{
+    margin-top:30px;
+}
+h1{
+    color:blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+
